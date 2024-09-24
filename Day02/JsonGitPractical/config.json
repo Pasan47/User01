@@ -1,0 +1,10 @@
+{
+    "name": "John Doe singh",
+    "age": 31,
+    "city": "Aus",
+    "isStudent": false,
+    "address": {
+      "street": "124 main road",
+      "zipcode": "10005"
+    }
+}
